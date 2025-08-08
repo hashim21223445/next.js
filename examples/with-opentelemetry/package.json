@@ -10,7 +10,7 @@
     "@vercel/otel": "latest",
     "@opentelemetry/api": "^1.4.1",
     "next": "latest",
-    "react": "^18.2.0",
+    "react": "^19.1.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
